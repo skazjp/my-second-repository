@@ -1,3 +1,4 @@
 C:\Users\鈴木一弘\Documents\GitHub\my-first-repository
 C:\Users\鈴木一弘\Documents\GitHub\my-second-repository
 first modify
+studied git add,  git commit
