@@ -2,3 +2,4 @@ C:\Users\鈴木一弘\Documents\GitHub\my-first-repository
 
 first modify
 studied git add,  git commit
+1 git status
